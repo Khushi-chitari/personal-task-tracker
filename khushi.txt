@@ -1,0 +1,3 @@
+Personal task Tracker 
+Tech : React . ASP.NET core API ,SQL server/SQ lite weeks 
+
